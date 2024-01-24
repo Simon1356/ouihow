@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://simon1356.github.io/my-portfolio/",
+  "homepage": "https://simon1356.github.io/ouihow/",
   "eslintConfig": {
     "extends": [
       "react-app",
